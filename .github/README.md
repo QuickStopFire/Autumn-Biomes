@@ -3,13 +3,13 @@
 </h1>
 
 <div align="center">
-    <a href="https://modrinth.com/mod/polytone/versions">
+    <a href="https://modrinth.com/mod/polytone">
         <img alt=Polytone src="./src/Banners/Polytone.png" height="60">
     </a>
-    <a href="https://modrinth.com/mod/respackopts/versions">
+    <a href="https://modrinth.com/mod/respackopts">
         <img alt=Respackopts src="./src/Banners/Respackopts.png" height="60">
     </a>
-    <a href="https://modrinth.com/mod/fallingleaves/versions">
+    <a href="https://modrinth.com/mod/dynamicpack">
         <img alt=DynamicPack src="./src/Banners/DynamicPack.png" height="60">
     </a>
 </div>
@@ -122,11 +122,11 @@ have any questions, you can write to me using any of the methods [provided][Biol
 [Issues]: https://github.com/QuickStopFire/Autumn-Biomes/issues
 
 [rE-oCd]: https://modrinth.com/resourcepack/re-ocd
-[Polytone]: https://modrinth.com/mod/polytone/versions
-[Colormatic]: https://modrinth.com/mod/colormatic/versions
+[Polytone]: https://modrinth.com/mod/polytone
+[Colormatic]: https://modrinth.com/mod/colormatic
 [OptiFine]: https://optifine.net/downloads
-[Respackopts]: https://modrinth.com/mod/respackopts/versions
-[Falling Leaves]: https://modrinth.com/mod/fallingleaves/versions
+[Respackopts]: https://modrinth.com/mod/respackopts
+[Falling Leaves]: https://modrinth.com/mod/fallingleaves
 [Not So Dark Forest]: https://modrinth.com/datapack/not-so-dark-forest
 [DynamicPack]: https://modrinth.com/mod/dynamicpack
 [Biome-Colored Flowers & Plants]: https://modrinth.com/mod/biome-colored-flowers-plants
