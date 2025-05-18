@@ -1,0 +1,17 @@
+{
+    "id": "autumnBiomes",
+    "version": 8,
+    "capabilities": ["FileFilter", "DirFilter"],
+    "conf": {
+        "style": {
+            "type": "enum",
+            "default": "regular",
+            "values": ["regular", "programmerArt", "reocd", "colormap"]
+        },
+        "grassColor":{
+            "type": "enum",
+            "default": "yellow",
+            "values": ["yellow", "withered", "orange", "biomeDependent"]
+        }
+    }
+}
