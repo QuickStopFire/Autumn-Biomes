@@ -1,0 +1,4 @@
+{
+  condition: "(!style.colormap)",
+  fallback: "assets/minecraft/models/block/birch_leaves_default.json"
+}

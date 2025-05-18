@@ -1,0 +1,7 @@
+{
+    condition: "style.regular",
+    fallback: [
+      "assets/minecraft/textures/block/birch_leaves/birch_leaves_pa.png",
+      "assets/minecraft/textures/block/birch_leaves/birch_leaves_reocd.png"
+    ]
+}

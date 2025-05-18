@@ -1,0 +1,20 @@
+{
+    "rpo.autumnBiomes": "Autumn Biomes",
+
+    "rpo.autumnBiomes.style": "Birch leaves style",
+    "rpo.autumnBiomes.style.tooltip": "§6Regular§r: 1.14+. §6Programmer Art§r: before 1.14. §6Colormap§r: yellow overlay. §6rE-oCd§r: for the corresponding resource pack.",
+    "rpo.autumnBiomes.style.regular": "Regular",
+    "rpo.autumnBiomes.style.programmerArt": "Programmer Art",
+    "rpo.autumnBiomes.style.reocd": "rE-oCd",
+    "rpo.autumnBiomes.style.colormap": "Colormap",
+
+    "rpo.autumnBiomes.notSoDarkForest": "Not So Dark Forest (works only with Polytone)",
+    "rpo.autumnBiomes.notSoDarkForest.tooltip": "If §aTrue§r, the grass in the Dark Forest will be less dark. You may have to §cre-enter the world§r after switching.",
+
+    "rpo.autumnBiomes.grassColor": "Color of the grass",
+    "rpo.autumnBiomes.grassColor.tooltip": "Biome Dependent is: §eBirch Forest§r, §4Dark Forest§r, §6Forest§r (without Polytone is §6Withered§r in a Dark Forest).",
+    "rpo.autumnBiomes.grassColor.yellow": "§eYellow§r",
+    "rpo.autumnBiomes.grassColor.withered": "§6Withered§r",
+    "rpo.autumnBiomes.grassColor.orange": "§4Orange§r",
+    "rpo.autumnBiomes.grassColor.biomeDependent": "Biome Dependent"
+}

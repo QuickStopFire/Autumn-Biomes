@@ -1,0 +1,26 @@
+{
+    "libjf-config-core-v2.true": "§aВключено§r",
+    "libjf-config-core-v2.false": "§cОтключено§r",
+    "libjf-config-core-v2.reset": "Сброс",
+    "libjf-config-core-v2.presets": "Пресеты",
+    "libjf-config-core-v2.default": "По умолчанию",
+    
+    "rpo.autumnBiomes": "Autumn Biomes",
+
+    "rpo.autumnBiomes.style": "Стиль листвы берёзы",
+    "rpo.autumnBiomes.style.tooltip": "§6Стандартный§r: 1.14+. §6Классический§r: до 1.14. §6Цветовая карта§r: наложение жёлтого. §6rE-oCd§r: для одноимённого ресурспака.",
+    "rpo.autumnBiomes.style.regular": "Стандартный",
+    "rpo.autumnBiomes.style.programmerArt": "Классический",
+    "rpo.autumnBiomes.style.reocd": "rE-oCd",
+    "rpo.autumnBiomes.style.colormap": "Цветовая карта",
+
+    "rpo.autumnBiomes.notSoDarkForest": "Менее тёмный лес (работает только с Polytone)",
+    "rpo.autumnBiomes.notSoDarkForest.tooltip": "Если §aВключено§r, трава в Тёмном Лесу будет менее тёмной. Возможно придётся §cперезайти в мир§r после переключения.",
+
+    "rpo.autumnBiomes.grassColor": "Цвет травы",
+    "rpo.autumnBiomes.grassColor.tooltip": "По биомам это: §eБерёзовый лес§r, §4Тёмный лес§r, §6Лес§r (если нет Polytone, то §6Жухлая§r в тёмном лесу).",
+    "rpo.autumnBiomes.grassColor.yellow": "§eЖёлтая§r",
+    "rpo.autumnBiomes.grassColor.withered": "§6Жухлая§r",
+    "rpo.autumnBiomes.grassColor.orange": "§4Оранжевая§r",
+    "rpo.autumnBiomes.grassColor.biomeDependent": "По биомам"
+}

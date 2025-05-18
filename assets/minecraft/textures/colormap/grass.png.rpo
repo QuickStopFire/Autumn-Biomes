@@ -1,0 +1,8 @@
+{
+    condition: "grassColor.yellow",
+    fallback: [
+      "assets/minecraft/textures/colormap/grass/grass_withered.png",
+      "assets/minecraft/textures/colormap/grass/grass_orange.png",
+      "assets/minecraft/textures/colormap/grass/grass_biome_dependent.png"
+    ]
+}

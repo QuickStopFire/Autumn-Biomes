@@ -1,0 +1,8 @@
+{
+    condition: "(!notSoDarkForest) & (!grassColor.biomeDependent)",
+    fallback: [
+      "assets/autumn_biomes/polytone/biome_modifiers/dark_forest/dark_forest_orange.json",
+      "assets/autumn_biomes/polytone/biome_modifiers/dark_forest/dark_forest_darkorange.json",
+      "assets/autumn_biomes/polytone/biome_modifiers/dark_forest/not_so_dark_forest.json"
+    ]
+}
