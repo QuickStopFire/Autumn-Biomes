@@ -1,7 +1,11 @@
 {
   "pack": {
     "name": "§6Autumn Biomes§r",
-    "pack_format": 15,
+    "pack_format": 22,
+    "supported_formats": {
+      "min_inclusive": 18,
+      "max_inclusive": 22
+    },
     "description": "Autumn colors for some biomes. By §6QuickStopFire§r."
   }
 }
